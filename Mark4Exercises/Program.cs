@@ -6,7 +6,7 @@ namespace Mark4Exercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(null == null);
         }
     }
 }
